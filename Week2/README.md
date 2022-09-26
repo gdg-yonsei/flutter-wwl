@@ -1,15 +1,15 @@
 # Week 2
 ## Assignment
 - **Basic Widgets**
-    > **Study Materials 중 볼드체인 자료가 공부해야 할 자료입니다. 이외의 자료는 추가 참고 자료입니다. <br> 공부는 자유롭게, 코드도 자유롭게 작성하시면 됩니다! 
+    > **Study Materials 중 볼드체인 자료가 공부해야 할 자료입니다. 이외의 자료는 추가 참고 자료입니다. <br> 공부는 자유롭게, 코드도 자유롭게 작성하시면 됩니다!** 
 
 - **Blog 작성**
     
     > **1. flutter version management [(fvm)](https://fvm.app/)** <br>
     <br> **2.** **선언형 UI (flutter) / 명령형 UI (안드로이드, iOS)** <br>
-         - 선언형 UI와 명령형 UI <br>
+         **- 선언형 UI와 명령형 UI <br>
          - Flutter는 선언형 UI를 사용하는 이유 <br>
-         +) android compose 에 관해서도 알아보면 좋을 것 같습니다.
+         +) android compose 에 관해서도 알아보면 좋을 것 같습니다.**
     > 
 
 ## Study Materials

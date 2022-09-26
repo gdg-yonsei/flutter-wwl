@@ -5,11 +5,11 @@
 
 - **Blog 작성**
     
-    > **1. flutter version management [(fvm)](https://fvm.app/)** 
+    > **1. flutter version management [(fvm)](https://fvm.app/)** <br>
     <br> **2.** **선언형 UI (flutter) / 명령형 UI (안드로이드, iOS)** <br>
-    - 선언형 UI와 명령형 UI 
-    - Flutter는 선언형 UI를 사용하는 이유
-    +) android compose 에 관해서도 알아보면 좋을 것 같습니다.
+        - 선언형 UI와 명령형 UI 
+        - Flutter는 선언형 UI를 사용하는 이유
+        +) android compose 에 관해서도 알아보면 좋을 것 같습니다.
     > 
 
 ## Study Materials

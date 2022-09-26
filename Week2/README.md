@@ -11,18 +11,16 @@
          - Flutter는 선언형 UI를 사용하는 이유 <br>
          +) android compose 에 관해서도 알아보면 좋을 것 같습니다.**
     > 
-
 ## Study Materials
-- [**[입문] Dart 언어 4시간만에 완전정복 - 인프런 | 강의**](https://www.inflearn.com/course/dart-%EC%96%B8%EC%96%B4-%EC%9E%85%EB%AC%B8)
 
-- [**Learn Dart: First Step to Flutter - Learn Interactively**](https://www.educative.io/courses/learn-dart-first-step-to-flutter)
+- [**Flutter Layout Cheat Sheet**](https://medium.com/flutter-community/flutter-layout-cheat-sheet-5363348d037e)
 
-- [**Dart Docs : A tour of the Dart language**](https://dart.dev/guides/language/language-tour#generics)
+- [**Flutter Open - Widgets**](https://flutteropen.gitbook.io/flutter-widgets/)
 
-- [Flutter by Example](https://flutterbyexample.com/)
+- [**Flutter Flow - UI & Layout 101**](https://docs.flutterflow.io/widgets-and-components/ui-and-layout-101)
 
-- [Dart Tutorial - Learn Dart Programming](https://dart-tutorial.com/)
+- [Getting Started With Flutter](https://www.raywenderlich.com/24499516-getting-started-with-flutter#toc-anchor-001)
 
-- [Flutter Guide](https://flutterguide.com/)
+- [오준석의 생존 플러터 생존코딩](https://github.com/junsuk5/flutter_basic/tree/master/chapter04/lib)
 
-- [Dart 문법 총 정리 - 40분 (2022년 리뉴얼)](https://youtu.be/qUaou0HcpL4)
+- [Flutter (Official) - Introduction to widgets](https://docs.flutter.dev/development/ui/widgets-intro)

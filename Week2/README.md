@@ -1,4 +1,4 @@
-# Week 2
+# Week 2 : Basic Widgets
 ## Assignment
 - **Basic Widgets**
     > **Study Materials 중 볼드체인 자료가 공부해야 할 자료입니다. 이외의 자료는 추가 참고 자료입니다. <br> 공부는 자유롭게, 코드도 자유롭게 작성하시면 됩니다!** 

@@ -1,6 +1,6 @@
-# Week 1
+# Week 1 : Dart Basics
 ## Assignment
-- **Dart 문법 기초**
+- **Dart Basics**
     
     > **Study Materials 중 볼드체인 자료가 공부해야 할 자료입니다. 이외의 자료는 추가 참고 자료입니다. <br> 공부는 자유롭게, 코드도 자유롭게 작성하시면 됩니다! 다만,  아래 내용은 모두 포함해야 합니다.**
     > 

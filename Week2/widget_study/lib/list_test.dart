@@ -17,13 +17,13 @@ class ListTestWidget extends StatefulWidget {
 }
 
 class _ListTestState extends State<ListTestWidget> {
-  final ScrollController _homeController = ScrollController();
+  final ScrollController _listController = ScrollController();
 
   @override
   Widget build(BuildContext context) {
     return Scaffold(
       body: ListView.separated(
-          controller: _homeController,
+          controller: _listController,
           itemBuilder: (BuildContext context, int index) {
             return Center(
               child: Text(

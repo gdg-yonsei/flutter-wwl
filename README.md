@@ -3,13 +3,13 @@
 ## Member
 <div align="center">
 <a href="https://github.com/watchstep">
-  <image src="https://avatars.githubusercontent.com/u/88659167?v=4"  width="64" height="64"  style="border-radius:50%">
+  <image src="https://avatars.githubusercontent.com/u/88659167?v=4"  width="64" height="64"  style="border-radius:70%">
 </a>&nbsp;&nbsp;&nbsp;
 <a href="https://github.com/haaem">
-  <image src="https://avatars.githubusercontent.com/u/113160789?v=4"  width="64" height="64"  style="border-radius:50%">
+  <image src="https://avatars.githubusercontent.com/u/113160789?v=4"  width="64" height="64"  style="border-radius:70%">
 </a>&nbsp;&nbsp;&nbsp;
-<a href="https://github.com/hyunminyoo">
-  <image src="https://avatars.githubusercontent.com/u/67991188?v=4"  width="64" height="64"  style="border-radius:50%">
+<a href="https://github.com/hyunminyoo">>
+  <image src="https://avatars.githubusercontent.com/u/67991188?v=4"  width="64" height="64"  style="border-radius:70%">
 </a>
 </div>
 

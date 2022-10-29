@@ -1,6 +1,6 @@
 # Week 6 : FutureBuilder / StreamBuilder
 ## Assignment
-- **FutureBuilder / StreamBuilder**
+- **Firebase를 이용한 Flutter 채팅 App 만들기**
     > **Study Materials를 참고해 Firebase를 이용한 Flutter 채팅 App 만들기 (README.md에 UI 스크린샷 올려주세요!)
     > <br>+) 복잡한 UI 그리기는 선택 과제입니다.
     > <br>Study Materials 중 볼드체인 자료가 공부해야 할 자료입니다. 이외의 자료는 추가 참고 자료입니다.**

@@ -1,4 +1,4 @@
-#What is JAZZ? (feat. 주펄)
+# What is JAZZ? (feat. 주펄)
 
 https://github.com/haaem/What-is-JAZZ.git
 

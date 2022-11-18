@@ -1,16 +1,7 @@
 # chatapp
 
-A new Flutter project.
+코딩셰프 Flutter 채팅 앱 만들기 클론코딩
+https://youtube.com/playlist?list=PLQt_pzi-LLfrhI7B4mdx17ynreM0UwCzR
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img src="https://user-images.githubusercontent.com/113160789/202656581-4acf2709-8c35-4fe7-8d48-68c8a53b90be.png" width="300" align="left">
+<img src="https://user-images.githubusercontent.com/113160789/202656438-49820514-2842-4b59-a451-d6fc82bd8344.png" width="300" align="left">
